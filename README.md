@@ -1,6 +1,6 @@
 # Instructions
-These file are executed and tested in Postgres datbase
-Index, and partitioning is not considered as the data set is small 
+These file are executed and tested in Postgres datbase.
+Indeing, and partitioning is not considered as the data set is small 
 Addressed Primary key  on ACS_INCOME_2013 table, defined the not null columns in all tables
 ## SCP the below files to /tmp on the postgres server machine
 ```
