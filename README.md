@@ -2,6 +2,8 @@
 Postgres database has been used for this test. Ignored indexing, partitioning on the tables because of small data set.
 Defined a primary key on ACS_INCOME_2013 table and set several not null columns on all tables. 
 Referential integrity contraints will ensure best data integrity possible. It needs discussions with other teams and good amount of time to incorporate in the database design. So Ignored at this point.
+
+For convenience 4 Jpg reports files are included in the bottom. 
 ## SCP the below files to /tmp on the postgres server machine
 ```
 create_tables.sql
