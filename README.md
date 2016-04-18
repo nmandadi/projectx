@@ -41,3 +41,5 @@ Single click on these three JPG Reports will land you in Report section.
 
 ##HTML_Reports
 ```
+Click on html_reports Folder will land you in zipped section of the reports.  Click on report then click on View Raw to save the report zip file on your local machine. Unzip the downloaded Zip file, and click on the corresponding folders to select the htm file or png file to view the report.
+```
