@@ -34,5 +34,5 @@ PGPASSWORD=$PASS psql -h $HOST -U $USER -p $PORT -d $DB -f /tmp/create_tables.sq
 PGPASSWORD=$PASS psql -h $HOST -U $USER -p $PORT -d $DB -f /tmp/load_data.sql > /tmp/load.out
 ```
 
-## ddLoad data
+## JPEG Reports
 ```
